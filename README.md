@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi, my name is Christian Sarnataro
+- 🔭 At the moment I’m working with JavaScript, React and NodeJS 
+- 🌱 I’m currently learning: SvelteJS, GraphQL, Kotlin for Android, Flutter
+- 📫 How to reach me: https://www.linkedin.com/in/sarnataro/
+- 😄 Pronouns: he/him
 
 <!--
 **csarnataro/csarnataro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
