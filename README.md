@@ -1,5 +1,6 @@
 ### Hi, my name is Christian Sarnataro
-- 🔭 At the moment I’m working with JavaScript, React and NodeJS (and other developers, of course)
+- 🔭 At the moment I’m working with JavaScript, React and NodeJS, and I'm always happy when I can work on new technologies 
+- 💬 In the past I've been working with Java, mostly for building web apps
 - 🌱 I’m currently learning: SvelteJS, GraphQL, Kotlin for Android, Flutter
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/sarnataro/)
 - 🏳️‍🌈 Pronouns: he/him
