@@ -1,9 +1,9 @@
 ### Hi, my name is Christian Sarnataro (he/him)
 - 🔭 At the moment I’m working with JavaScript, React and NodeJS, and I'm always happy to work with new technologies 
-- 💬 In the past I've been working with Java, mostly on web apps
+- 💬 In the past I worked with Java, mostly on web apps
 - 🌱 I’m currently learning: SvelteJS, GraphQL, Kotlin for Android, Flutter
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/sarnataro/)
-- 📍Currently I'm based in Milan, Italy
+- 📍 Currently I'm based in Milan, Italy
 - 🏳️‍🌈 Pronouns: he/him
 
 <!--
