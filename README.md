@@ -1,9 +1,10 @@
 ### Hi, my name is Christian Sarnataro (he/him)
-- 🔭 At the moment I’m working with JavaScript, Typescript, React, NodeJS, a bit of MicroPython, and I'm always happy to work with new technologies 
-- 💬 In the past I worked with Java, mostly on web apps
-- 🌱 I’m currently learning: Elixir, Kotlin for Android. I'm making my first steps in Rust too.
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/sarnataro/) or <a rel="me" href="https://fosstodon.org/@csarnataro">Mastodon</a>
+- 🔭 At the moment, I’m working with JavaScript, Typescript, React, NodeJS, and a bit of MicroPython. I'm always happy to learn and work with new technologies
+- 💬 In the past, I worked with Java, mostly on web apps
+- 🌱 I’m currently learning: Elixir, Kotlin for Android. I'm also making my first steps in Rust.
+- 📫 How to reach me: LinkedIn or Mastodon
 - 🏳️‍🌈 Pronouns: he/him
+
 
 <!--
 **csarnataro/csarnataro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
